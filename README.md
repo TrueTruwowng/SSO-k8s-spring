@@ -1,3 +1,6 @@
+
+<img width="1179" height="550" alt="Screenshot 2025-10-20 115559" src="https://github.com/user-attachments/assets/65b9f385-243f-454e-aa08-cd0518618bca" />
+<img width="1802" height="616" alt="Screenshot 2025-10-20 115607" src="https://github.com/user-attachments/assets/a5ed06a5-0218-4169-9c31-e396909950a1" />
 # Spring Boot + Auth0 OIDC SSO Demo
 
 Ứng dụng mẫu tích hợp SSO với Auth0 sử dụng giao thức **OIDC** (không phải SAML) kết hợp:
